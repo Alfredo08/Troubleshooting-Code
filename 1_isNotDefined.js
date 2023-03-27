@@ -4,6 +4,7 @@ for( let i = 1; i <= 10; i ++ ){
     console.log( i );
 }
 
-let subMessage = message.substring( 6 );
+console.log( i );
+// let subMessage = message.substring( 6 );
 
-console.log( subMessage );
+// console.log( subMessage );
