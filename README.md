@@ -37,4 +37,6 @@
         Implement changes to a codebase so code runs smoothly
     </li>
 </ul>
-
+<h2>
+    All the code shown through the workshop can be found under the branch <strong> all-errors-fixed </string>
+</h2>
