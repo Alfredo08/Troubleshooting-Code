@@ -38,5 +38,8 @@
     </li>
 </ul>
 <h2>
-    All the code shown through the workshop can be found under the branch <strong> all-errors-fixed </string>
+    Updated code
 </h2>
+<p>
+All the code shown through the workshop can be found under the branch <strong> all-errors-fixed </string>
+</p>
