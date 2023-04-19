@@ -2,8 +2,11 @@
 
 let student = {
     firstName : "Alex",
-    lastName : "Miller"
+    lastName : "Miller",
+    languages: {
+        proficient : "Master"
+    }
 };
 
-console.log( student.fullName );
+console.log( student.firstName );
 console.log( student.languages.proficient );

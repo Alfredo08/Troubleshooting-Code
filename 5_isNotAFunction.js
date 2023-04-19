@@ -2,7 +2,7 @@
 
 let message = "Hello world";
 
-message.push( "Amazing!" );
+message +=  " Amazing!";
 
 console.log( message );
 

@@ -1,10 +1,12 @@
 // Scope and "is not defined" errors
 
-for( let i = 1; i <= 10; i ++ ){
+for( var i = 1; i <= 10; i ++ ){
     console.log( i );
 }
 
-console.log( i );
-// let subMessage = message.substring( 6 );
+console.log( [i] );
 
-// console.log( subMessage );
+let message = "Hello world";
+let subMessage = message.substring( 6 );
+
+console.log( subMessage );
